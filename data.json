@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "Nim",
+      "email": "123@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": 2,
+      "username": "Tu",
+      "email": "abc@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": 3,
+      "username": "Mim",
+      "email": "743@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "username": "fewf",
+      "passwprd": "fffeger",
+      "id": 4
+    },
+    {
+      "username": "fewf",
+      "passwprd": "fffeger",
+      "id": 5
+    },
+    {
+      "username": "fsdf",
+      "passwprd": "g",
+      "id": 6
+    }
+  ]
+}

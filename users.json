@@ -1,0 +1,12 @@
+{
+    "users": [{ "id": 1, "username": "bruno", "password": "bruno" },
+        { "id": 2, "username": "techie", "password": "techie" },
+        { "id": 3, "username": "nilson", "password": "nilson" },
+        { "id": 4, "username": "nilson1", "password": "nilson" },
+        { "id": 5, "username": "nilson2", "password": "nilson" },
+        { "id": 6, "username": "nilson3", "password": "nilson" },
+        { "id": 7, "username": "nilson4", "password": "nilson" },
+        { "id": 8, "username": "nilson7", "password": "nilson" },
+        { "id": 9, "username": "nilson8", "password": "nilson" }
+    ]
+}
